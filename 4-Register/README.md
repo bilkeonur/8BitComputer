@@ -1,1 +1,1 @@
-![Intro](https://github.com/bilkeonur/8BitComputer/blob/main/3-Register/Register.png)\
+![Intro](https://github.com/bilkeonur/8BitComputer/blob/main/4-Register/Register.png)\
