@@ -1,0 +1,1 @@
+![Intro](https://github.com/bilkeonur/8BitComputer/blob/main/6-RAM/RAM.png)\
