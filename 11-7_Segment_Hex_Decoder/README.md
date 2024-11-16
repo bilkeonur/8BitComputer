@@ -1,0 +1,1 @@
+![Intro](https://github.com/bilkeonur/8BitComputer/blob/main/11-7_Segment_Hex_Decoder/7_Segment_Hex_Decoder.png)\
